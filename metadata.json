@@ -1,0 +1,7 @@
+{
+  "name": "BiteDash - Premium Food Delivery",
+  "description": "A high-end food delivery platform featuring AI-powered dish recommendations, real-time cart management, and a beautiful responsive interface.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
